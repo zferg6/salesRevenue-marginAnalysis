@@ -1,4 +1,4 @@
-This project is a Power BI dashboard built to analyze sales, costs, and profitability across products, brands, and regions. It highlights performance trends and margin insights to support better business decision-making
+This project is a Power BI dashboard built to analyze sales, costs, and profitability across products, brands, and regions. It highlights performance trends and margin insights to support better business decision-making.
 
 The dataset includes:
   - Item, Brand, and Product details
